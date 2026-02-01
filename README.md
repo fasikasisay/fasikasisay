@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**fasikasisay/fasikasisay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Fasika
 
-Here are some ideas to get you started:
+ Software Developer | Java • Web • Systems  
+ Passionate about building real-world applications  
+ Currently improving my backend & system design skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Tech Stack
+- Java (Swing, OOP)
+- HTML, CSS, JavaScript
+- PHP & MySQL
+- Firebase
+- Git & GitHub
+
+---
+
+## Projects
+- *budget-tracker* -
+- *Event Ticket Booking System** – Seat selection & booking logic
+
+
+
+---
+
+## 📫 Contact
+- GitHub: @fasikasisay
+- Email: sfasika007@gmail.com
+
+
