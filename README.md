@@ -17,7 +17,7 @@
 ---
 
 ## Projects
-- *budget-tracker* -
+- *budget-tracker* -A full-featured Budget Tracker Web Application that allows users to manage their daily expenses with real-time updates, authentication, data visualization, and CSV export.
 - *Event Ticket Booking System** – Seat selection & booking logic
 
 
