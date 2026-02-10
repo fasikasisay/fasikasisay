@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Fasika
+#  Hi, I'm Fasika
 
  Software Developer | Java • Web • Systems  
  Passionate about building real-world applications  
@@ -24,7 +24,7 @@
 
 ---
 
-## 📫 Contact
+##  Contact
 - GitHub: @fasikasisay
 - Email: sfasika007@gmail.com
 - linkedln: fasika sisay
