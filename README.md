@@ -27,5 +27,5 @@
 ##  Contact
 - GitHub: @fasikasisay
 - Email: sfasika007@gmail.com
-- linkedln: fasika sisay
+- linkedln: in/fasika-sisay-778663348
 
