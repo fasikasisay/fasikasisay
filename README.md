@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 FASIKA
+# 👨‍💻 FASIKA SISAY
 
 ```bash
 > role: Software Engineer
@@ -13,7 +13,7 @@
 
 ---
 
-# STACK.INIT
+# STACK
 
 <p align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-# STATS.DASHBOARD
+# STATS
 
 <div align="center">
 
@@ -63,18 +63,8 @@ Desktop application for managing student registration and records using Java and
 
 ---
 
-# CURRENTLY.EXPLORING
 
-```text
-backend architecture
-system design principles
-api development
-scalable application design
-```
-
----
-
-# CONNECT.SYS
+# CONNECT
 
 <p align="center">
 
