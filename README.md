@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 FASIKA.SYS
+# 👨‍💻 FASIKA
 
 ```bash
 > role: Software Engineer
@@ -55,7 +55,7 @@ Interactive event booking platform with seat selection, reservation workflows, a
 ### 🏥 Hospital Queue Management
 Modern queue management system for hospitals built with React and Vite.
 
-### 📝 Java CBE Examination System
+### 📝 Java  Examination System
 Computer-based examination platform developed using Java Swing and MySQL.
 
 ### 🎓 Student Registration System
